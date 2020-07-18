@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "841308242998",
+    "firebase_url": "https://geeksynergytask.firebaseio.com",
+    "project_id": "geeksynergytask",
+    "storage_bucket": "geeksynergytask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841308242998:android:90213d456e5ec994060497",
+        "android_client_info": {
+          "package_name": "com.geeksynergytask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841308242998-ansa3e8k1lt22ffav9p5q3b3ajcuq9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1NLQuaPIQBIwUqq_jZSR3lsfh7opugI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841308242998-ansa3e8k1lt22ffav9p5q3b3ajcuq9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
